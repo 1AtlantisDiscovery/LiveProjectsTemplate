@@ -4,7 +4,7 @@ This is a template, which lays out a structure for a main project. It can be use
 **NOTE**: Your live projects are PUBLIC, on both GitHub and Trello meaning anyone can see them. 
 
 **To keep you and your client safe**, here are some ground rules:
-
+**one two three
 * **NO authentication data:** 
   * usernames, passwords
   * shared secrets
